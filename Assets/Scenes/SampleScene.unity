@@ -5476,7 +5476,7 @@ PrefabInstance:
       objectReference: {fileID: 8400000, guid: 1528acf246a19472fb2d7ada997fea94, type: 2}
     - target: {fileID: 4420534201481029175, guid: bc731fa95f5188844b76e7033e4bdce2, type: 3}
       propertyPath: stepSmooth
-      value: 0.01
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 7103627703541640474, guid: bc731fa95f5188844b76e7033e4bdce2, type: 3}
       propertyPath: m_Name
